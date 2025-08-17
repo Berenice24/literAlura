@@ -1,0 +1,11 @@
+com\bere\literalura\literalura\entity\Author.class
+com\bere\literalura\literalura\repository\AuthorRepository.class
+com\bere\literalura\literalura\dto\GutendexBookDto.class
+com\bere\literalura\literalura\cli\AppRunner.class
+com\bere\literalura\literalura\entity\Book.class
+com\bere\literalura\literalura\external\GutendexClient.class
+com\bere\literalura\literalura\external\GutendexResponse.class
+com\bere\literalura\literalura\LiteraluraApplication.class
+com\bere\literalura\literalura\service\LibraryService.class
+com\bere\literalura\literalura\dto\GutendexAuthorDto.class
+com\bere\literalura\literalura\repository\BookRepository.class
